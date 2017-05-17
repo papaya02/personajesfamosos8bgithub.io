@@ -1,11 +1,9 @@
-
 <html>
 <head>
-<title>pagina web  famosos </title>
-</head>
+<title>pagina web musica</title>
 <Table border=1 width=100% bgcolor=black>
 <Tr>
-<Td><font color="white">actores</font></Td><Td><font color="white">cantantes </font></td><Td><font color="white">futbol</font> </Td><Td><font color="white"> gastronomia</font></Td><Td><font color="white">¡Donde</font></Td><Td><font color="white">radio</font></Td><Td><font color="white">tegnologia</font></Td><Td><font color="white">turismo</font></Td>
+<Td><font color="white">deportes</font></Td><Td><font color="white">entretenimiento</font></td><Td><font color="white">futbol</font> </Td><Td><font color="white"> gastronomia</font></Td><Td><font color="white">¡Donde</font></Td><Td><font color="white">radio</font></Td><Td><font color="white">tegnologia</font></Td><Td><font color="white">turismo</font></Td>
 <Tr> 
 
 <Td><h1><p>musica</p></h1><td>
@@ -14,4 +12,3 @@
 <Td><h1><p>musica</p><h1>
 <h3>pedrinay rio seran teloneros del concierto de melendi</h3></Td>
 </body>
-</html>
