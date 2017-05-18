@@ -1,28 +1,46 @@
 <html>
-<head>
-<title>
-</title>
-</body>
-<table border=1>
-
-<Tr>
-<td>raya1</td>
-<td>raya2</td>
-</Tr>
-
-
-<Tr>
-<td>musica</td>
-<td>musica</td>
-</Tr>
-
-<Tr>
-<td><img src=ejemplo.jpg></td>
-<td>imagen2</td>
-</Tr>
-
-<Tr>
-<td>la cancion¨despacito" pasa del regueton a vercion metal</td>
-<td>algunos rockeros del metal han quedado asombrados el escuchar la cancio de requeton</td>
-</Tr>
-</html>
+ 	<head>
+ 	<title></title>
+ 	</head>
+ 	<body>
+ 	<Table border=1 width=80% bgcolor=black align="center">
+ 	<Tr>
+ 	<Td><font color=white>Deportes</Td><Td><font color=white>Entretenimiento</Td><Td><font color=white>Futbol</Td><Td><font color=white>Gastronomia</Td><Td><font color=white>Donde</Td><Td><font color=white>Radio</Td><Td><font color=white>Tecnologia</Td><Td><font color=white>Turismo</Td>
+ 	</Tr>
+ 	</Table>
+ 	 
+ 	<Table align="center">
+ 	<Tr>
+ 	<Td><img src="linea verde.png" with="100%" height="100%"/></Td><Td><img src="linea verde.png"with="100%" height="100%"/></Td>
+ 	<Tr>
+ 	<Td>Musica</Td><Td>Musica</Td></Tr>
+ 	<Tr>
+ 	<Td><img src="despacito.png" with="200%" height="200%"/></Td><Td><img src="imagen2.png" with="200%" height="200%"/></Td>
+ 	</Tr>
+ 	<Td><b>La cancion "Despacito" pasa del reguetón a version metal</b></Td><Td><b>Pedrina y Rio seran teloneros del concierto de Melendi</b></Td>
+ 	</Tr>
+ 	</Tr>
+ 	<Td><b>Algunos rockeros del metal han quedado asombrados al escuchar la cancion de reguetón más e...</b></Td><Td><b>Pedrina y Rio, será el estimulante previo para la presentacion del cantante español Melend...</b></Td>
+ 	</Tr>
+ 	<Tr>
+ 	<Td><img src="linea verde.png" with="100%" height="100%"/></Td><Td><img src="linea verde.png"with="100%" height="100%"/></Td>
+ 	<Tr>
+ 	<Td>Celebridades</Td><Td>Musica</Td></Tr>
+ 	<Tr>
+ 	<Td><img src="imagen 3.png" with="200%" height="200%"/></Td><Td><img src="imagen 4.png" with="200%" height="200%"/></Td>
+ 	</Tr>
+ 	<Td><b>Selena Gómez y The Weeknd no ocultan su romance</b></Td><Td><b>¡HeatRadio Music Awards 2017: Las mejores presentaciones de la gala</b></Td>
+ 	</Tr>
+ 	</Tr>
+ 	<Td><b>Selena Gómez y The Weeknd, la pareja del momento, ya no se ocultan de los </b></Td><Td><b>Justin Timberlake fue el encargado de inagurar las actuaciones de la noche con Can´t</b></Td>
+ 	</Tr>
+ 	<Tr>
+ 	<Td><img src="linea verde.png" with="100%" height="100%"/></Td><Td><img src="linea verde.png"with="100%" height="100%"/></Td>
+ 	</Tr>
+ 	<Tr>
+ 	<Td><img src="imagen.gif" with="100%" height="100%"/></Td><Td><iframe width="560" height="315" src="https://www.youtube.com/embed/iOUsiXgtHGQ" frameborder="0" allowfullscreen></iframe> </Td>
+ 	</Tr>
+ 	</Table>
+ 	 
+ 	</body>
+ 	</html>
